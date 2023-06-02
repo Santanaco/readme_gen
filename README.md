@@ -2,13 +2,11 @@
 
 ## Description
     
+    A Readme Generator that functions throough terminal. 
+    
     https://drive.google.com/file/d/1s-y8Kpy7gFsPrduiMMdd2dljFThU7Ycu/view?usp=sharing
 
-A Readme Generator that functions throough terminal. 
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
